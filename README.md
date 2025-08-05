@@ -36,7 +36,11 @@ After:&nbsp; [![Screenshot #4.2](images/after4-smaller.png)](images/after4-small
 How to install
 --------------
 
-See [INSTALL.md](INSTALL.md).
+~See [INSTALL.md](INSTALL.md).~
+
+```bash
+git clone https://github.com/tkaretsos/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+```
 
 
 FAQ
